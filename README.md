@@ -3,7 +3,7 @@ Crazy Pong is a game created by putting a twist on the original game pong. It in
 
 ## Features
 
-Horizontal and vertical movement of paddles
-Faster gameplay compared to regular Pong
-Two-player mode
-Interactive sound effects and graphics
+* Horizontal and vertical movement of paddles
+* Faster gameplay compared to regular Pong
+* Two-player mode
+* Interactive sound effects and graphics
